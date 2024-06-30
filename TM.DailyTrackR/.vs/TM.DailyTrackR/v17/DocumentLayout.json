@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A05D96-C401-4640-BE5B-7F2AF839E2F5}|TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.logic\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A05D96-C401-4640-BE5B-7F2AF839E2F5}|TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj|solutionrelative:tm.dailytrackr.logic\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A05D96-C401-4640-BE5B-7F2AF839E2F5}|TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.logic\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A05D96-C401-4640-BE5B-7F2AF839E2F5}|TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj|solutionrelative:tm.dailytrackr.logic\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|solutionrelative:tm.dailytrackr.view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A05D96-C401-4640-BE5B-7F2AF839E2F5}|TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.logic\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A05D96-C401-4640-BE5B-7F2AF839E2F5}|TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj|solutionrelative:tm.dailytrackr.logic\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA2549-D060-42D9-AF02-2F66D03FB5CF}|TM.DailyTrackR.ViewModel\\TM.DailyTrackR.ViewModel.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.viewmodel\\loginwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA2549-D060-42D9-AF02-2F66D03FB5CF}|TM.DailyTrackR.ViewModel\\TM.DailyTrackR.ViewModel.csproj|solutionrelative:tm.dailytrackr.viewmodel\\loginwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|solutionrelative:tm.dailytrackr.view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|solutionrelative:tm.dailytrackr.view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|c:\\users\\hp\\desktop\\trackerfinal\\tm.dailytrackr\\tm.dailytrackr.view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49140A3A-CB16-49B4-9B50-EDDB62394D3E}|TM.DailyTrackR.View\\TM.DailyTrackR.View.csproj|solutionrelative:tm.dailytrackr.view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.ViewModel\\LoginWindowViewModel.cs",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.ViewModel\\LoginWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.ViewModel\\LoginWindowViewModel.cs",
+              "RelativeToolTip": "TM.DailyTrackR.ViewModel\\LoginWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:38:57.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.View\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\LoginWindow.xaml",
+              "RelativeToolTip": "TM.DailyTrackR.View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T16:39:00.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\LoginController.cs",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.Logic\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\LoginController.cs",
+              "RelativeToolTip": "TM.DailyTrackR.Logic\\LoginController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAmwG0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:17:27.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\MainWindow.xaml",
+              "RelativeToolTip": "TM.DailyTrackR.View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T15:37:24.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Activitycontroller.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\Activitycontroller.cs",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.Logic\\Activitycontroller.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\Activitycontroller.cs",
+              "RelativeToolTip": "TM.DailyTrackR.Logic\\Activitycontroller.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:36:12.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TM.DailyTrackR.View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAIwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:21:45.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExportController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\ExportController.cs",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.Logic\\ExportController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\ExportController.cs",
+              "RelativeToolTip": "TM.DailyTrackR.Logic\\ExportController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAowHIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:10:20.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TM.DailyTrackR.View\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TM.DailyTrackR.View\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBAwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:55:12.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

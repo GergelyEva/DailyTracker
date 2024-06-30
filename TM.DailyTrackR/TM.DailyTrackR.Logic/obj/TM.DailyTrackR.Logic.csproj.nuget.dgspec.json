@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.DataType\\TM.DailyTrackR.DataType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.DataType\\TM.DailyTrackR.DataType.csproj",
+        "projectName": "TM.DailyTrackR.DataType",
+        "projectPath": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.DataType\\TM.DailyTrackR.DataType.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.DataType\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
+            "OxyPlot.Core": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "OxyPlot.Wpf": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj",
+        "projectName": "TM.DailyTrackR.Logic",
+        "projectPath": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\TM.DailyTrackR.Logic.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.DataType\\TM.DailyTrackR.DataType.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\TrackerFinal\\TM.DailyTrackR\\TM.DailyTrackR.DataType\\TM.DailyTrackR.DataType.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
+            "OxyPlot.Core": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "OxyPlot.Wpf": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
